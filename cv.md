@@ -40,3 +40,6 @@ Experience
 ----------
 I'm a self-educated person, and I practice HTML/CSS by small personal projects. I like building different kinds of responsive layout.
 
+Summary
+---------
+
