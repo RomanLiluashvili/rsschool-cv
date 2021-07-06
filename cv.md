@@ -42,4 +42,4 @@ I'm a self-educated person, and I practice HTML/CSS by small personal projects. 
 
 Summary
 ---------
-
+I'm really motivated to learn JS and couple of it's frameworks, deepen my existing knowledge in WEB and become a professional Web Developer.
